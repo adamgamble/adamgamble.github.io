@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The only five-star that we even concern ourselves with is a five-star heart. - Butch Jones"
   - text: "They've won the biggest championship, and that's the championship of life. - Butch Jones"
+  - text: "We learned about the value of being ready vs. the value of being prepared. - Butch Jones"
 
 # me-img: "/img/jetpacktocat.png"
 
