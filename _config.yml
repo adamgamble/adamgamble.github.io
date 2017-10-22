@@ -33,13 +33,13 @@ author: "John Smith"
 title: "Is Butch Jones fired yet?"
 description: "Has Butch Jones been fired yet?"
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/black-lab-glass.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/black-lab-glass.png"
 
 background-img: "../img/intro-bg.jpg"
 
